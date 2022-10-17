@@ -20,6 +20,7 @@ For this project you will need the following libraries:
 * requests
 * re
 * csv 
+* config
 
 ## Data
 The data contains recipes that have atleast 15g of protein in them and anywhere between 0-100 carbs as well  all per serving size. It was retrieved in three parts with the first 100 points of 0-30 carbs, the second 100 having 30-50 carbs, and the last 100 having 50-95 carbs. The three sets were then merged together outputting the following variables:
