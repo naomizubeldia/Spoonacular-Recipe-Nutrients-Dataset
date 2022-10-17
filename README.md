@@ -8,9 +8,9 @@ The dataset was made from the Spoonacular API. The code for how the data was pul
 
 
 # Table of Contents
-Installation
-Data
-Contents
+[Installation](## Installation)
+[Data](## Data)
+[Contents](## Contents)
 
 
 ## Installation
@@ -34,6 +34,6 @@ The data contains recipes that have atleast 15g of protein in them and anywhere 
 * Fat- amount of fat in grams
 * Carbs- amount of carbs in grams
 
-## Content 
+## Contents 
 This repository contains an ipynb contains the code used and a csv of the data exported from python.
 
