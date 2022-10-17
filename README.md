@@ -9,7 +9,9 @@ The dataset was made from the Spoonacular API. The code for how the data was pul
 
 # Table of Contents
 [Installation](#Installation)
+
 [Data](#Data)
+
 [Contents](#Contents)
 
 
