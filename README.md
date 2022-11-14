@@ -8,9 +8,11 @@ The dataset was made from the Spoonacular API. The code for how the data was pul
 
 
 # Table of Contents
-Installation
-Data
-Contents
+[Installation](#Installation)
+
+[Data](#Data)
+
+[Contents](#Contents)
 
 
 ## Installation
@@ -20,6 +22,7 @@ For this project you will need the following libraries:
 * requests
 * re
 * csv 
+* config
 
 ## Data
 The data contains recipes that have atleast 15g of protein in them and anywhere between 0-100 carbs as well  all per serving size. It was retrieved in three parts with the first 100 points of 0-30 carbs, the second 100 having 30-50 carbs, and the last 100 having 50-95 carbs. The three sets were then merged together outputting the following variables:
@@ -33,6 +36,6 @@ The data contains recipes that have atleast 15g of protein in them and anywhere 
 * Fat- amount of fat in grams
 * Carbs- amount of carbs in grams
 
-## Content 
-This repository contains an ipynb containt the code used and a csv of the data exported from python.
+## Contents 
+This repository contains an ipynb contains the code used and a csv of the data exported from python.
 
