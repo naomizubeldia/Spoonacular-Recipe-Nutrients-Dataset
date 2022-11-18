@@ -37,5 +37,5 @@ The data contains recipes that have atleast 15g of protein in them and anywhere 
 * Carbs- amount of carbs in grams
 
 ## Contents 
-This repository contains an ipynb contains the code used and a csv of the data exported from python.
+This repository contains an ipynb contains the code used and a csv of the data exported from python. There is also an EDA of the data in an ipynb file.
 
